@@ -15,4 +15,8 @@ public class car {
         System.out.println("brand:"+brand);
         System.out.println("price:"+price);
     }
+
+    public static void main(String[] args) {
+
+    }
 }
